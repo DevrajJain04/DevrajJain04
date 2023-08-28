@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevrajJain04
 - 👀 I’m interested in learning things that have the power to make a change , light reading and sports.
-- 🌱 I’m currently learning C language.
+- 🌱 I’m currently learning C language, Java , Dart for Flutter, HTML , CSS , etc.
 - 📫 How to reach me : Mobile Number -9167414571  , E-mail ID - devrajjain4@gmail.com , LinkedIn - Devraj P Jain , Instagram - devraj.jain.14268
 
 <!---
