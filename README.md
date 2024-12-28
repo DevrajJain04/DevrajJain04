@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devrajjain04&label=Profile%20views&color=0e75b6&style=flat" alt="devrajjain04" /> </p>
 
-- 🔭 I’m currently working on a [Formula1 app](https://github.com/github.com/DevrajJain04/FormulaOneAppClone)
-
 - 🌱 I’m currently learning **Deep Learning, C++.**
 
 - 💬 Ask me about **flutter , firebase , data structures and algorithms**
