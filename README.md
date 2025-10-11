@@ -1,9 +1,8 @@
 <h1 align="center">Hey! My Name is Devraj Jain</h1>
-<h3 align="center">I am a Flutter Developer and a Machine Learning Enthusiast.</h3>
+<h3 align="center">I am a Flutter Developer and Python Backend Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devrajjain04&label=Profile%20views&color=0e75b6&style=flat" alt="devrajjain04" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning, C++.**
 
 - 💬 Ask me about **flutter , firebase , data structures and algorithms**
 
