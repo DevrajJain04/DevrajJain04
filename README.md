@@ -1,5 +1,5 @@
 <h1 align="center">Hey! I'm Devraj Jain 👋</h1>
-<h3 align="center">Flutter Developer • Python & Go Backend Engineer • ML Enthusiast</h3>
+<h3 align="center">Product Engineer • Python and Nestjs Backend Engineer • AI systems Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=devrajjain04&label=Profile%20views&color=0e75b6&style=flat" alt="devrajjain04" />
@@ -9,26 +9,17 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a passionate developer who loves building clean, functional apps and services — from sleek Flutter UIs to powerful backend systems. I thrive at the intersection of mobile development, backend engineering, and data science.
+I am a passionate developer who loves building software that matters !
 
 - 🔭 Currently working on **full-stack and cross-platform projects**
-- 🌱 Exploring **Go microservices, system design, and ML integration**
-- 💬 Ask me about **Flutter, Firebase, FastAPI, Go, Data Structures & Algorithms**
+- 🌱 Exploring **AI frontier technologies, Go microservices, system design, and ML integration**
+- 💬 Ask me about **AI, Python, System Design and Data Structures & Algorithms**
 - 📫 Reach me at **devrajjain4@gmail.com**
 - ⚡ Fun fact: **I love to joke but enjoy peace.**
 
 ---
 
 ## 🚀 Featured Projects
-
-### 📱 Mobile & Cross-Platform
-
-| Project | Description | Tech |
-|---|---|---|
-| [**InnstantBook**](https://github.com/DevrajJain04/InnstantBook) | A Flutter booking application | Flutter, Dart |
-| [**ChatApp – Yappsters**](https://github.com/DevrajJain04/ChatApp) | Real-time chat app built with Flutter | Flutter, Firebase |
-| [**Small World**](https://github.com/DevrajJain04/Small_World) | Privacy-first chat with responsive layouts, animations, and Provider state management | Flutter, Dart |
-| [**Formula One App Clone**](https://github.com/DevrajJain04/FormulaOneAppClone) | Multiplatform F1 stats app with future ML prediction & streaming prospects | Flutter, Dart |
 
 ### ⚙️ Backend & APIs
 
@@ -45,8 +36,6 @@ I'm a passionate developer who loves building clean, functional apps and service
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
-  <a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
   <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
